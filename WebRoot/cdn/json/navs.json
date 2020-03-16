@@ -1,0 +1,14 @@
+[
+{
+	"title" : "后台首页",
+	"icon" : "icon-computer",
+	"href" : "main",
+	"spread" : false
+}
+,{
+	"title" : "PDF管理",
+	"icon" : "icon-text",
+	"href" : "pdf?action=goIndex",
+	"spread" : false
+}	
+]
